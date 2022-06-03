@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3105389058787881387
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: hoverColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: hoverColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: hoverColor.r
+      value: 0.14967096
+      objectReference: {fileID: 0}
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: notEnoughMoneyColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: notEnoughMoneyColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6009072155519744159, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: notEnoughMoneyColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5719881816092884772, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_Name
+      value: NodeChemin
+      objectReference: {fileID: 0}
+    - target: {fileID: 7942709654254085928, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 73b9d5fbbbdfabb459796c2d4ade5940, type: 2}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7950271840213124194, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1f4fc8018c1ca554fb0fa5e30b6cd0dc, type: 3}
